@@ -1,1 +1,1 @@
-# Distill-MRI
+# FastMRI-Seg
